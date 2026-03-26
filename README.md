@@ -1,22 +1,22 @@
-# 📈 Stock Price Trend Predictor
+# Stock Price Trend Predictor
 
-## 🚀 Overview
+## Overview
 This project predicts whether a stock price will go UP or DOWN the next day using machine learning.
 
-## 📊 Features Used
+## Features Used
 - Simple Moving Average (SMA 10, SMA 50)
 - Daily Returns
 
-## 🧠 Model
+## Model
 - Random Forest Classifier
 
-## 📦 Tech Stack
+## Tech Stack
 - Python
 - Pandas
 - Scikit-learn
 - yFinance
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
